@@ -5,6 +5,14 @@
 
 Open Journal Systems (OJS) is open source software developed by the [Public Knowledge Project](https://pkp.sfu.ca/) to manage scholarly journals. [Learn More](https://pkp.sfu.ca/software/ojs/)
 
+[Bit ECO: Journal of Economics and Business](https://journal.fajarpos.com/index.php/eco)
+
+[Bit ECO: Journal of Economics and Business](https://journal.fajarpos.com/index.php/eco) is a scientific journal that focuses on the study of economics and related issues. Published periodically, the journal presents high-quality writings from researchers and academics in the field of economics.
+
+The journal aims to serve as a platform for communication and the exchange of knowledge among researchers, academics, and economic practitioners. Through the publication of scientific articles, [Bit ECO: Journal of Economics and Business](https://journal.fajarpos.com/index.php/eco/) strives to enhance understanding of economic phenomena and make a positive contribution to the overall development of the field of economics.
+
+[View Journal](https://journal.fajarpos.com/index.php/eco) [Current Issue](https://journal.fajarpos.com/index.php/eco/issue/current)
+
 ## Usage
 
 Read one of these guides to get started using OJS:
